@@ -1,4 +1,4 @@
-#One Library to enable GPIO from breadboard; has over 25 sensors and teaches how pythonic and C functions to get inputs.
+# One Library to enable GPIO from breadboard; has over 25 sensors and teaches how pythonic and C functions to get inputs.
 
 ## SunFounder Sensor Kit V2.0 for RPi 2
 SunFounder Sensor Kit V2.0 for **RaspberryPi 2B**, compatible for **Rev.1 Module B/B+**, **Rev 3 Module B**
